@@ -51,7 +51,7 @@ const paddockManagers = [
     { id: 3, name: 'FORESTAL Y AGRICOLA LO ENCINA' }
   ];
   
-  // Tip: Una hectárea equivale a 10.000m2
+  // Hint: Una hectárea equivale a 10.000m2
   
   
   // 0 Arreglo con los ids de los responsables de cada parcela, ordenados de menor a mayor
